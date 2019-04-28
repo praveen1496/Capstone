@@ -2,13 +2,13 @@
 
 ## Introduction / Business problem:
 Crime rates have gone high in various parts of the United States over the past few years. One of the noted states is California. To build a safer community we need to rely on various factors and one such factor is crime rate. Crime mapping is used by analysts in law enforcement agencies to map, visualize and analyze crime patterns. Geographic analysis can help reveal crime patterns and possible prevent future crimes from happening. 
-<br>
+<br><br>
 This would include:
 <br> •	Examining where crimes occurred, and past offenders lived. <br>
 •	Determining which neighborhoods attract more crime. <br>
 •	How crimes differ in urban areas and rural areas?<br>
 •	Finding crime hotspots and develop prevention strategies.<br>
-•	Also helps public to decide on which neighborhood is safer to establish their property at. 
+•	Also helps public to decide on which neighborhood is safer to establish their property at. <br><br>
 <br>Based on the above use cases, the following can be the potential stakeholders:
 <br>•	Law enforcement agencies
 <br>These stakeholders will depend on this analysis in order to gather more information about the crimes around the state, arrive at a potential solution that would reduce the crime rate and possibly arrest the criminals responsible. 
